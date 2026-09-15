@@ -103,6 +103,26 @@ até a mensagem de finalização. O menu reaparece; escolha **0** para sair.
 A demonstração pode ser repetida. Se uma etapa falhar, o erro é exibido e o
 controle retorna ao menu, sem anunciar conclusão da demonstração.
 
+
+## Apresentação acadêmica
+
+O projeto também conta com o arquivo **`ExploraSO_Apresentacao.pptx`**, preparado
+como suporte visual para a apresentação em sala. A apresentação resume os pontos
+essenciais do ExploraSO em oito slides:
+
+1. identificação do projeto;
+2. roteiro da apresentação;
+3. objetivo e escopo;
+4. modelo conceitual `Aplicação → API/Runtime → Serviço do SO → Kernel → Recurso`;
+5. categorias e funcionalidades implementadas;
+6. execução da demonstração completa;
+7. gerenciamento de processos, com processo pai, processo filho, PID e `wait()`;
+8. perguntas-chave para revisão e encerramento.
+
+A apresentação deve ser usada em conjunto com a execução da aplicação no terminal.
+Os slides funcionam como apoio visual, enquanto este README permanece como a
+referência técnica mais detalhada do projeto.
+
 ## Guia para apresentação
 
 | Opção | O que foi implementado? | Qual API/função? | Qual serviço do SO? | Como demonstrar? |
