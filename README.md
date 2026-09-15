@@ -109,7 +109,9 @@ controle retorna ao menu, sem anunciar conclusão da demonstração.
 O projeto também conta com uma apresentação acadêmica preparada como suporte
 visual para a exposição em sala.
 
-📊 [Abrir apresentação do ExploraSO](./ExploraSO_Apresentacao.pptx)
+📊 [Abrir apresentação em PowerPoint](./ExploraSO_Apresentacao.pptx)
+
+📄 [Abrir apresentação em PDF](./ExploraSO_Apresentacao.pdf)
 
 A apresentação aborda:
 
