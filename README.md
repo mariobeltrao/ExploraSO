@@ -106,9 +106,12 @@ controle retorna ao menu, sem anunciar conclusão da demonstração.
 
 ## Apresentação acadêmica
 
-O projeto também conta com o arquivo **`ExploraSO_Apresentacao.pptx`**, preparado
-como suporte visual para a apresentação em sala. A apresentação resume os pontos
-essenciais do ExploraSO em oito slides:
+O projeto também conta com uma apresentação acadêmica preparada como suporte
+visual para a exposição em sala.
+
+📊 [Abrir apresentação do ExploraSO](./ExploraSO_Apresentacao.pptx)
+
+A apresentação aborda:
 
 1. identificação do projeto;
 2. roteiro da apresentação;
@@ -116,12 +119,8 @@ essenciais do ExploraSO em oito slides:
 4. modelo conceitual `Aplicação → API/Runtime → Serviço do SO → Kernel → Recurso`;
 5. categorias e funcionalidades implementadas;
 6. execução da demonstração completa;
-7. gerenciamento de processos, com processo pai, processo filho, PID e `wait()`;
+7. gerenciamento de processos, PID e `wait()`;
 8. perguntas-chave para revisão e encerramento.
-
-A apresentação deve ser usada em conjunto com a execução da aplicação no terminal.
-Os slides funcionam como apoio visual, enquanto este README permanece como a
-referência técnica mais detalhada do projeto.
 
 ## Guia para apresentação
 
